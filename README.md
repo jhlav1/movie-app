@@ -31,23 +31,23 @@ Projektet är byggt med:
 
 ```text
 src/
-├── components/
-│   ├── Header.jsx
-│   └── MovieCard.jsx
-│
-├── pages/
-│   ├── Home.jsx
-│   ├── Movies.jsx
-│   ├── MovieDetails.jsx
-│   └── SavedMovies.jsx
-│
-├── services/
-│   └── movieApi.js
-│
-├── App.jsx
-├── App.css
-├── index.css
-└── main.jsx
+components/
+ Header.jsx
+ MovieCard.jsx
+
+ pages/
+  Home.jsx
+  Movies.jsx
+  MovieDetails.jsx
+    SavedMovies.jsx
+
+ services/
+    movieApi.js
+
+ App.jsx
+ App.css
+ index.css
+ main.jsx
 
 Sidor
 Home
